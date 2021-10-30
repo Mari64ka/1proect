@@ -11,6 +11,17 @@ body {
   border: 2px dashed #c7e4ff;
 }
 
+.button {
+  padding: 6px 20px;
+  display: inline-block;
+  vertical-align: baseline;
+  text-decoration: none;
+  text-transform: uppercase;
+  border-radius: 4px;
+  background-color: #712073;
+  color: #ffffff;
+}
+
 html::before,
 body::before,
 header::before,
