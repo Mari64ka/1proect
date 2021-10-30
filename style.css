@@ -193,3 +193,14 @@ body {
   color: #f2f2f2;
   background-color: #17161a;
 }
+
+.dark-theme .theme-button {
+  color: #9484f2;
+  border: 1px solid #9484f2;
+}
+
+.dark-theme .theme-button:focus,
+.dark-theme .theme-button:hover {
+  color: #17161a;
+  background-color: #9484f2;
+}
